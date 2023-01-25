@@ -1,7 +1,6 @@
-This is for the gprc course on linkedin in python. The example is also from the course.
-I did it bcuz it needs to be presented by me on falcon learning as instructed by Mr. Hassan.
+falcon learning session
 presenter: SYEDA LAIBA UROOJ
-DATE: 17TH JAN 2023
+DATE: 24TH JAN 2023
 
 1) create rides.proto
 > protoc --python_out=. rides.proto
